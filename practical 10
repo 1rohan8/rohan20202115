@@ -1,0 +1,29 @@
+<html>
+<head><title>CS Assignment Ques No.10</title>
+</head>
+<body bgcolor="skyblue" border="6px">
+<font fontface="cambaria" size="4">
+      <h1>CREATE YOUR WEBSITE IN JUST 120 SECONDS</h1>
+      <p>JUST FOLLOW THE GIVEN STEPS.</p>
+<hr>
+    <form name="form 1">
+    Please fill the following boxes to help us send the emails and our news letter:<br>
+    First Name: <input type="text" name="firstname" size="10" maxlength="20" value="abc"<br>
+    Last Name : <input type="text" name="lastname"><br>
+    Website Name:   <input type="text" name="websitename"><br>
+YOUR EMAIL ADDRESS
+    Email:  <input type:"email" name="email" value="GOOGLE@01.com"><hr>
+WERE YOU ABLE TO DO IT UNDER A MINIUTE?<br>
+    <input type="radio" name="q" value="yes" checked> yes
+    <input type="radio" name="q" value="no"> no   
+    <input type="radio" name="q" value="absolutley"> maybe
+    <input type="radio" name="q" value="skip">skip<br>
+Would you like regular updates on your registered mail?<br>
+<input type="checkbox" name="yes" value="yes">Yes, we love emails<br><hr>
+    <input type:"reset" name="reset" value="Reset">
+    <input type:"submit" name="submit" value="Submit">
+
+    </form>
+</font>
+</body>
+</html>
